@@ -14,7 +14,7 @@ El proyecto se divide en dos partes principales y la tercera la realiza el profe
 En la carpeta [Parte1](Parte1), se encuentra el modelo de entidad-relación que diseñé. Este modelo representa la estructura de la base de datos y se encuentra en formato PDF.
 ### Parte 2: Script de Base de Datos y Llenado de Prueba
 
-En la carpeta [Parte2](Parte2), he proporcionado un script de base de datos ejecutable en MySQL. Este script incluye la creación de tablas y el llenado de datos de prueba coherentes con las tablas. El código está debidamente comentado para una mejor compresión. Además contiene scripts de [Python](PP1/Parte2/Python) en el cual se utilizó para implementar la creación de los datos de las tablas de MySQL, en la cual se utilizaron tecnicas tanto de Web-Scrapping (Beatiful-Soup) como manipulación de datos (Pandas).
+En la carpeta [Parte2](Parte2), he proporcionado un script de base de datos ejecutable en MySQL. Este script incluye la creación de tablas y el llenado de datos de prueba coherentes con las tablas. El código está debidamente comentado para una mejor compresión. Además contiene scripts de [Python](Parte2/Python) en el cual se utilizó para implementar la creación de los datos de las tablas de MySQL, en la cual se utilizaron tecnicas tanto de Web-Scrapping (Beatiful-Soup) como manipulación de datos (Pandas).
 
 ## Observaciones Adicionales
 Para obtener información detallada sobre los requerimientos y suposiciones de cada parte, consulte [práctica programada](Pratica_Programada1.pdf)
