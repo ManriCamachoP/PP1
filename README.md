@@ -1,4 +1,4 @@
-# XS-3210 Sistemas de Información Práctica Programada 1
+# Proyecto: Implementando una base en SQL
 
 ## Descripción del Proyecto
 Este repositorio contiene mi solución para la Práctica Programada 1 del curso XS-3210 Sistemas de Información. El objetivo principal de este proyecto es crear una base de datos que satisfaga las necesidades de una pequeña empresa dedicada a la venta de productos personalizados.
